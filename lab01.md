@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 我的博客
 ---
 
 # 我的博客标题
@@ -16,3 +16,4 @@ title: 请将标题写在这里
 这个文档将发布在 https://your-account.github.io/homework 中！
 
 
+![](images/038.jpg)
