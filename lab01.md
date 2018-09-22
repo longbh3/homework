@@ -3,7 +3,7 @@ layout: default
 title: 我的博客
 ---
 
-# 我的博客标题
+# 古风流派
 
 ## 1、你会使用 vscode 编辑 markdown 了吗？
 
