@@ -24,7 +24,7 @@
         #include<conio.h>
 
  # 蛇的移动
- ## snake_move.c
+
     
     void MovingBody(){
 	int count=0;
@@ -73,7 +73,7 @@
 }
 
 # 蛇吃东西
-## snake_eat.c
+
 
     void Eating(){
 	if (head->x == food.x&&head->y == food.y){
