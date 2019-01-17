@@ -15,7 +15,7 @@
         END WHILE
         输出 Game Over
 
-由于做这个贪吃蛇所需要的指令比较多，所以我需要引入几个库。
+由于做这个贪吃蛇所需要的指令比较多，所以我们需要引入几个库。
         
         #include<stdio.h>
         #include<string.h>
