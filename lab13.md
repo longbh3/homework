@@ -39,23 +39,23 @@
 		p=p->next;
 	}
 	switch (click){
-		case up:
+		case w:
 			head->y-=1;
 			ChangeBody(a,b);
 			break;
-		case down:
-			head->y+= 1;
+		case s:
+			head->y++;
 			ChangeBody(a,b);
 			break;
-		case left:
+		case a:
 			head->x-=2;
 			ChangeBody(a,b);
 			break;
-		case right:
+		case d:
 			head->x+=2;
 			ChangeBody(a,b);
 			break;
-		case stop:
+		case p:
 			_getch();
 			break;
 	}
